@@ -16,4 +16,5 @@
 
 •	Product Owner. O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog
 
-ASS:Lucas Gabriel
+ASS:Lucas Gabriel vidal silva
+
